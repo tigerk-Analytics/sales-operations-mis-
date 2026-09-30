@@ -75,3 +75,6 @@ region, product and month to identify where the shortfall is concentrated.
 Important:
 Do not claim this was a real company's internal report. Present it as a realistic
 MIS project created to demonstrate MIS reporting skills.
+
+
+https://1drv.ms/x/c/b8b2102e14806f65/IQBOWx-yvB-HQbDnxBOVUV-bAYFzFpMKaQeh8f1Q3vt7vjI?e=sYkhP1
